@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.1] - 2025-06-20
+
+### Added
+
+* Add 'put' and 'get' keywords to IC10 syntax highlighting
+
 ## [0.4.0](https://github.com/awilliamson/ic10-language-support/compare/v0.3.0...v0.4.0) (2023-04-01)
 
 
